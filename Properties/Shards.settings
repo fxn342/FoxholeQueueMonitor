@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Foxhole_Queue_Monitor.Properties" GeneratedClassName="Shards">
+  <Profiles />
+  <Settings>
+    <Setting Name="Able" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://war-service-live.foxholeservices.com/external/shardStatus</Value>
+    </Setting>
+    <Setting Name="Baker" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://war-service-live-2.foxholeservices.com/external/shardStatus</Value>
+    </Setting>
+    <Setting Name="Charlie" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://war-service-live-3.foxholeservices.com/external/shardStatus</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
